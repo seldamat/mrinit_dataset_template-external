@@ -1,3 +1,0 @@
-[submodule "datalad"]
-	path = datalad
-	url = http://datasets.datalad.org/.git
